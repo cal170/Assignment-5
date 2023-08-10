@@ -18,6 +18,4 @@ Modify the code to specify the correct Excel file directory and sheet names.
 Execute the code to complete the data transformation and view construction.
 Examine the printed results and use the converted data as needed.
 
-Note
-This code does not require a complete database setup. It simulates data processing processes and view development using pandas DataFrames. Consider customising the code to interact with an actual database for real-world use.
 
